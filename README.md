@@ -12,6 +12,11 @@ Books I have read or want to read.
 :white_check_mark: Scott Meyers: <em>Effective modern C++</em>. O'Reilly Media, 2014\
 :poland: : <em>Skuteczny nowoczesny C++</em>. APN Promise, 2014
 
+:white_check_mark: Łukasz Sosna: <em>Linux. Komendy i polecenia</em>. Helion, 2018
+
+:black_square_button: Daniel Drescher: <em>Blockchain Basics: A Non-Technical Introduction in 25 Steps</em>. Apress, 2017\
+:poland: : <em>Blockchain. Podstawy technologii łańcucha bloków w 25 krokach</em>. Helion, 2021
+
 :black_square_button: Gus Khawaja: <em>Kali Linux Penetration Testing Bible</em>. Wiley, 2021\
 :poland: : <em>Kali Linux i testy penetracyjne Biblia</em>. Helion, 2021
 
@@ -25,9 +30,6 @@ Books I have read or want to read.
 :poland: : <em>Programowanie w języku Rust. Wydajność i bezpieczeństwo</em>. Helion, 2022
 
 ## Want to buy:
-
-Daniel Drescher: <em>Blockchain Basics: A Non-Technical Introduction in 25 Steps</em>. Apress, 2017\
-:poland: : <em>Blockchain. Podstawy technologii łańcucha bloków w 25 krokach</em>. Helion, 2021
 
 Jon Bodner: <em>Learning Go: An Idiomatic Approach to Real-World Go Programming</em>. O'Reilly Media, 2021\
 :poland: : <em>Język Go. Tworzenie idiomatycznego kodu w praktyce. </em>Helion, 2022
