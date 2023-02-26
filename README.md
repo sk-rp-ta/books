@@ -14,7 +14,7 @@ Books I have read or want to read.
 
 :white_check_mark: Łukasz Sosna: <em>Linux. Komendy i polecenia</em>. Helion, 2018
 
-:black_square_button: Daniel Drescher: <em>Blockchain Basics: A Non-Technical Introduction in 25 Steps</em>. Apress, 2017\
+:white_check_mark: Daniel Drescher: <em>Blockchain Basics: A Non-Technical Introduction in 25 Steps</em>. Apress, 2017\
 :poland: : <em>Blockchain. Podstawy technologii łańcucha bloków w 25 krokach</em>. Helion, 2021
 
 :black_square_button: Gus Khawaja: <em>Kali Linux Penetration Testing Bible</em>. Wiley, 2021\
