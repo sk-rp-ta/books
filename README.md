@@ -17,7 +17,7 @@ Books I have read or want to read.
 :white_check_mark: Daniel Drescher: <em>Blockchain Basics: A Non-Technical Introduction in 25 Steps</em>. Apress, 2017\
 :poland: : <em>Blockchain. Podstawy technologii łańcucha bloków w 25 krokach</em>. Helion, 2021
 
-:white_check_mark: <em>The Clean Coder, A Code of Conduct for Professional</em>. Prantice Hall, 2011\
+:white_check_mark: Robert C. Martin: <em>The Clean Coder, A Code of Conduct for Professional</em>. Prantice Hall, 2011\
 :poland: : <em>Mistrz czystego kodu. Kodeks postępowania profesjonalnych programistów </em>. Helion, 2021
 
 :white_check_mark: Nesteruk Dmitri: <em>Design Patterns in Modern C++: Reusable Approaches for Object-Oriented Software Design</em>. Apress, 2018\
