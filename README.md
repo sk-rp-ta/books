@@ -23,7 +23,7 @@ Books I have read or want to read.
 :white_check_mark: Nesteruk Dmitri: <em>Design Patterns in Modern C++: Reusable Approaches for Object-Oriented Software Design</em>. Apress, 2018\
 :poland: : <em>Stosowanie wzorców projektowych w C++. Kod wielokrotnego wykorzystania w programowaniu zorientowanym obiektowo</em>. Helion, 2021
 
-## Already own:
+## Already owned:
 
 :black_square_button: Viktor Sehr, Bjorn Andrist: <em>C++ High Performance, Master the art of optimizing the functioning of your C++ code</em>. Packt, 2020\
 :poland: : <em>Wysoce wydajny C++. Opanuj sztukę optymalizowania działania kodu</em>. Helion, 2023
