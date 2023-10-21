@@ -23,13 +23,13 @@ Books I have read or want to read.
 :white_check_mark: Nesteruk Dmitri: <em>Design Patterns in Modern C++: Reusable Approaches for Object-Oriented Software Design</em>. Apress, 2018\
 :poland: : <em>Stosowanie wzorców projektowych w C++. Kod wielokrotnego wykorzystania w programowaniu zorientowanym obiektowo</em>. Helion, 2021
 
+:white_check_mark: Amini Kamran: <em>Extreme C: Taking you to the limit in Concurrency, OOP, and the most advanced capabilities of C</em>. Apress, 2019\
+:poland: : <em>Ekstremalny kod w języku C. Współbieżność i programowanie zorientowane obiektowo</em>. Helion, 2021
+
 ## Already owned:
 
 :black_square_button: Viktor Sehr, Bjorn Andrist: <em>C++ High Performance, Master the art of optimizing the functioning of your C++ code</em>. Packt, 2020\
 :poland: : <em>Wysoce wydajny C++. Opanuj sztukę optymalizowania działania kodu</em>. Helion, 2023
-
-:black_square_button: Amini Kamran: <em>Extreme C: Taking you to the limit in Concurrency, OOP, and the most advanced capabilities of C</em>. Apress, 2019\
-:poland: : <em>Ekstremalny kod w języku C. Współbieżność i programowanie zorientowane obiektowo</em>. Helion, 2021
 
 :black_square_button: Gus Khawaja: <em>Kali Linux Penetration Testing Bible</em>. Wiley, 2021\
 :poland: : <em>Kali Linux i testy penetracyjne Biblia</em>. Helion, 2021
