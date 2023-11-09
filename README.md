@@ -1,4 +1,5 @@
 # Books
+
 Books I have read or want to read.
 
 ## Already read:
@@ -25,6 +26,10 @@ Books I have read or want to read.
 
 :white_check_mark: Amini Kamran: <em>Extreme C: Taking you to the limit in Concurrency, OOP, and the most advanced capabilities of C</em>. Apress, 2019\
 :poland: : <em>Ekstremalny kod w języku C. Współbieżność i programowanie zorientowane obiektowo</em>. Helion, 2021
+
+:white_check_mark: Chris Riccomini, Dmitriy Ryaboy: <em>The Missing README: A Guide for the New Software Engineer</em>. No Starch Press
+, 2021\
+:poland: : <em>Brakujący plik README. Przewodnik dla początkujących inżynierów oprogramowania</em>. Helion, 2022
 
 ## Already owned:
 
