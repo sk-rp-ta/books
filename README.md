@@ -50,13 +50,18 @@ Books I have read or want to read.
 
 ## Want to buy:
 
-Jon Bodner: <em>Learning Go: An Idiomatic Approach to Real-World Go Programming</em>. O'Reilly Media, 2021\
-:poland: : <em>Język Go. Tworzenie idiomatycznego kodu w praktyce. </em>Helion, 2022
-
 Daniel Barrett : <em>Efficient Linux at the Command Line: Boost Your Command-Line Skills </em>. O'Reilly Media, 2022\
 :poland: : <em>Wiersz poleceń Linuksa. Rozwijanie umiejętności efektywnej pracy</em>. Helion, 2022
 
+David Thomas, Andrew Hunt: <em>The Pragmatic Programmer: Your Journey To Mastery</em>. Addison-Wesley Professional, 2019\
+:poland: : <em>Pragmatyczny programista. Od czeladnika do mistrza.</em>. Helion, 2021
+
+Bjarne Stroustrup: <em>A Tour of C++</em>. Addison Wesley
+, 2022\
+:poland: : <em>C++: Podróż po języku dla zaawansowanych </em>Helion, 2023
+
+Jon Bodner: <em>Learning Go: An Idiomatic Approach to Real-World Go Programming</em>. O'Reilly Media, 2021\
+:poland: : <em>Język Go. Tworzenie idiomatycznego kodu w praktyce. </em>Helion, 2022
+
 Mat Ryer : <em>Go Programming Blueprints </em>. Packt Publishing, 2016\
 :poland: : <em>Programowanie w języku Go. Koncepcje i przykłady</em>. Helion, 2017
-
-Paweł Kamiński: <em>React. Wstęp do programowania</em>. Helion, 2021
