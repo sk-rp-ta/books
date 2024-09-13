@@ -48,17 +48,16 @@ Books I have read or want to read.
 :black_square_button: Jim Blandy, Jason Orendorff, Leonora F. S. Tindall: <em>Programming Rust: Fast, Safe Systems Development</em>. O'Reilly Media, 2021\
 :poland: : <em>Programowanie w języku Rust. Wydajność i bezpieczeństwo</em>. Helion, 2022
 
-## Want to buy:
-
-Daniel Barrett : <em>Efficient Linux at the Command Line: Boost Your Command-Line Skills </em>. O'Reilly Media, 2022\
+:black_square_button: Daniel Barrett : <em>Efficient Linux at the Command Line: Boost Your Command-Line Skills </em>. O'Reilly Media, 2022\
 :poland: : <em>Wiersz poleceń Linuksa. Rozwijanie umiejętności efektywnej pracy</em>. Helion, 2022
 
-David Thomas, Andrew Hunt: <em>The Pragmatic Programmer: Your Journey To Mastery</em>. Addison-Wesley Professional, 2019\
+:black_square_button: David Thomas, Andrew Hunt: <em>The Pragmatic Programmer: Your Journey To Mastery</em>. Addison-Wesley Professional, 2019\
 :poland: : <em>Pragmatyczny programista. Od czeladnika do mistrza.</em>. Helion, 2021
 
-Bjarne Stroustrup: <em>A Tour of C++</em>. Addison Wesley
-, 2022\
+:black_square_button: Bjarne Stroustrup: <em>A Tour of C++</em>. Addison Wesley, 2022\
 :poland: : <em>C++: Podróż po języku dla zaawansowanych </em>Helion, 2023
+
+## Want to buy:
 
 Jon Bodner: <em>Learning Go: An Idiomatic Approach to Real-World Go Programming</em>. O'Reilly Media, 2021\
 :poland: : <em>Język Go. Tworzenie idiomatycznego kodu w praktyce. </em>Helion, 2022
